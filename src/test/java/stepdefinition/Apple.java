@@ -14,8 +14,8 @@ public class Apple {
 
 
     @Given("^I am on home page$")
-    public void iAmONHomePage()throws InterruptedException{
-        Thread.sleep(3000)
+    public void iAmONHomePage(){
+        
         Assert.assertEquals(homePage.getHomePageVerification(), "Phones", "U ARE NOT IN THE HOME PAGE");
 
     }
