@@ -17,7 +17,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 5681886439,
+  "duration": 6182613650,
   "status": "passed"
 });
 formatter.scenario({
@@ -57,39 +57,39 @@ formatter.match({
   "location": "Apple.iAmONHomePage()"
 });
 formatter.result({
-  "duration": 843516487,
+  "duration": 303759335,
   "status": "passed"
 });
 formatter.match({
   "location": "Apple.clickOnPhoneLink()"
 });
 formatter.result({
-  "duration": 4845394558,
+  "duration": 5120239483,
   "status": "passed"
 });
 formatter.match({
   "location": "Apple.iclickOnApple()"
 });
 formatter.result({
-  "duration": 3384466347,
+  "duration": 1491320677,
   "status": "passed"
 });
 formatter.match({
   "location": "Apple.iClickOnSpaceGrayButton()"
 });
 formatter.result({
-  "duration": 168337276,
+  "duration": 381506928,
   "status": "passed"
 });
 formatter.match({
   "location": "Apple.iClickOnAddToCart()"
 });
 formatter.result({
-  "duration": 175387981,
+  "duration": 632720322,
   "status": "passed"
 });
 formatter.after({
-  "duration": 102997732,
+  "duration": 114254121,
   "status": "passed"
 });
 });
